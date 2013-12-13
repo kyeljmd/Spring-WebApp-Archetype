@@ -1,4 +1,4 @@
-##Spring 4 Web App Archetype
+##Spring 4 Web App Maven Archetype
 
 Maven archetype for creating the of Spring Based Web Applications.
 
@@ -6,12 +6,12 @@ Maven archetype for creating the of Spring Based Web Applications.
 
 Installation 
 
-1) Clone This repository
+1) git clone  https://github.com/kyeljmd/Spring-WebApp-Archetype.git
 
-2) mvn install
+2) mvn install 
 
 Using The Archetype.
 
-$ mvn archetype:generate -DgroupId=com.kyeljmd -DartifactId=spring-webapp-archetype -DarchetypeVersion=1.0
+$   mvn archetype:generate -DgroupId=com.kyeljmd -DartifactId=spring-webapp-archetype -DarchetypeVersion=1.0
 
 
